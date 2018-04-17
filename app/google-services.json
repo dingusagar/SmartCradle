@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331709167702",
+    "firebase_url": "https://smartcradle-1589a.firebaseio.com",
+    "project_id": "smartcradle-1589a",
+    "storage_bucket": "smartcradle-1589a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331709167702:android:c38607db1561bf7f",
+        "android_client_info": {
+          "package_name": "com.example.dingu.smartcradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331709167702-5kjgks11trtm7aur174pb4mre46bb5pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dingu.smartcradle",
+            "certificate_hash": "06fee18b9c319f8f059d36748f85f2230ba66085"
+          }
+        },
+        {
+          "client_id": "331709167702-bcdu8lfht3gaf9madr1670hbaj8967ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD320tzeg_62F-Pl2YgNmvo_ECWQ1FCyv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331709167702-bcdu8lfht3gaf9madr1670hbaj8967ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baby Check</string>
+    <string name="default_notification_channel_id">0</string>
+    <string name="sensors_on_off">\n- Microphone ON -\n- Wet Sensor ON -\n- Camera OFF -\n</string>
+
+    <string name="baby_cry">\"Your baby is crying !!...Please attend\" </string>
+    <string name="baby_no_cry">\"No baby cry detected\"</string>
+
+    <string name="wet_bed">\"The bed is wet !!\"</string>
+    <string name="no_wet_bed">\"The bed is dry\"</string>
+    <string name="camera_connect">\"See what your baby is doing\"</string>
+    <string name="play_lullaby">\"play lullaby\"</string>
+
+
+</resources>
